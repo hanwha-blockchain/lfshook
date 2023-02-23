@@ -47,3 +47,4 @@ func TestLogEntryWritten(t *testing.T) {
 	}
 
 }
+
